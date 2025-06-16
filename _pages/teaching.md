@@ -4,9 +4,5 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Raisonement scientifique, L1 bio
+- Outils mathématiques 3, L1 PCSI
