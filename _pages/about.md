@@ -22,6 +22,8 @@ blabla
 *blabla*
 <i>blable</i>
 
+![lebanon](images/lebanon.jpg)
+
 How to contact me
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
