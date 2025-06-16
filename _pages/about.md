@@ -18,9 +18,10 @@ Research interests
 ======
 
 blabla
-<b>blabla</b>
+<b>blabla</b> <br>
+**blabla**
+<i>blable</i><br>
 *blabla*
-<i>blable</i>
 
 ![lebanon](images/lebanon.jpg)
 
