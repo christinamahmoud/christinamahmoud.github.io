@@ -7,24 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-## About
+<!-- ## About -->
 
 I am a PhD student in applied mathematics, supervised by [Hélène Mathis](https://imag.umontpellier.fr/~mathis/).  
 As part of my doctoral studies, I also teach at the Faculty of Science, University of Montpellier — see the [Teaching](https://christinamahmoud.github.io/teaching/) section for more details.
 ## Research
 
-Research interests
-======
+<!-- Research interests
+====== -->
 My research focuses on the numerical approximation of **hyperbolic systems with relaxation**, which appear in various applications involving non-equilibrium processes, such as fluid flows and two-phase mixtures. These systems take the general form:
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
 $$
 \partial_t \mathbf{W} + \partial_x \mathbf{f}(\mathbf{W}) = \frac{1}{\varepsilon} \mathbf{R}(\mathbf{W}),
 $$
-</div>
+</div> -->
 <!-- where $$\mathbf{W}$$ is the vector of conserved variables, $$\mathbf{f}(\mathbf{W})$$ is the flux function, and $$\mathbf{R}(\mathbf{W})$$ represents a relaxation source term. -->
-The parameter $$\varepsilon > 0$$ induces multiscale dynamics and presents major challenges for the design of robust numerical methods.
+<!-- The parameter $$\varepsilon > 0$$ induces multiscale dynamics and presents major challenges for the design of robust numerical methods. -->
+I focus on the development and analysis of **asymptotic-preserving** numerical schemes, designed to remain stable and accurate across both equilibrium and non-equilibrium regimes. These schemes are particularly suited to two-phase flow problems, where relaxation terms capture the exchange dynamics between coexisting phases like vapor and liquid.
 
-In particular, I focus on the development and analysis of **asymptotic-preserving** numerical schemes, designed to remain stable and accurate across both equilibrium and non-equilibrium regimes. These schemes are particularly suited to two-phase flow problems, where relaxation terms capture the exchange dynamics between coexisting phases like vapor and liquid.
+## Topics of interest
+
+compressible multiphase flows, Hyperbolic systems, relaxation, Numerical analysis Finite Volume schemes, Asymptotic preserving schemes
 
 <!-- <div style="text-align:center;">
 $$
