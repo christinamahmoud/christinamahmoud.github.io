@@ -16,19 +16,21 @@ As part of my doctoral studies, I also teach at the Faculty of Science, Universi
 Research interests
 ======
 My research focuses on the numerical approximation of **hyperbolic systems with relaxation**, which appear in various applications involving non-equilibrium processes, such as fluid flows and two-phase mixtures. These systems take the general form:
+<div style="text-align:center;">
 $$
 \partial_t \mathbf{W} + \partial_x \mathbf{f}(\mathbf{W}) = \frac{1}{\varepsilon} \mathbf{R}(\mathbf{W}),
 $$
-
-where $$\mathbf{W}$$ is the vector of conserved variables, $$\mathbf{f}(\mathbf{W})$$ is the flux function, and $$\mathbf{R}(\mathbf{W})$$ represents a relaxation source term. The parameter $$\varepsilon > 0$$ induces multiscale dynamics and presents major challenges for the design of robust numerical methods.
+</div>
+<!-- where $$\mathbf{W}$$ is the vector of conserved variables, $$\mathbf{f}(\mathbf{W})$$ is the flux function, and $$\mathbf{R}(\mathbf{W})$$ represents a relaxation source term. -->
+The parameter $$\varepsilon > 0$$ induces multiscale dynamics and presents major challenges for the design of robust numerical methods.
 
 In particular, I focus on the development and analysis of **asymptotic-preserving** numerical schemes, designed to remain stable and accurate across both equilibrium and non-equilibrium regimes. These schemes are particularly suited to two-phase flow problems, where relaxation terms capture the exchange dynamics between coexisting phases like vapor and liquid.
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
 $$
 \partial_t u + \partial_x f(u) = 0
 $$
-</div>
+</div> -->
 
 <!-- Research interests
 ======
@@ -39,9 +41,9 @@ blabla
 <i>blable</i><br>
 *blabla* -->
 
-## ![lebanon](images/lebanon.jpg)
+<!-- ## ![lebanon](images/lebanon.jpg) -->
 
-How to contact me
+<!-- How to contact me
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -52,4 +54,4 @@ How to contact me
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
