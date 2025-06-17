@@ -15,7 +15,7 @@ As part of my doctoral studies, I also teach at the Faculty of Science, Universi
 
 <!-- Research interests
 ====== -->
-My research focuses on the numerical approximation of **hyperbolic systems with relaxation**, which appear in various applications involving non-equilibrium processes, such as fluid flows and two-phase mixtures. These systems take the general form:
+My research focuses on the numerical approximation of **hyperbolic systems with relaxation**, which appear in various applications involving non-equilibrium processes, such as fluid flows and two-phase mixtures.
 <!-- <div style="text-align:center;">
 $$
 \partial_t \mathbf{W} + \partial_x \mathbf{f}(\mathbf{W}) = \frac{1}{\varepsilon} \mathbf{R}(\mathbf{W}),
