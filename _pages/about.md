@@ -13,15 +13,16 @@ I am a PhD student in applied mathematics, supervised by [Hélène Mathis](https
 As part of my doctoral studies, I also teach at the Faculty of Science, University of Montpellier — see the [Teaching](https://christinamahmoud.github.io/teaching/) section for more details.
 ## Research
 
-My research focuses on the numerical approximation of **hyperbolic systems with relaxation**, which are widely used to model out-of-equilibrium phenomena in continuum physics. These systems take the general form:
-
+Research interests
+======
+My research focuses on the numerical approximation of **hyperbolic systems with relaxation**, which appear in various applications involving non-equilibrium processes, such as fluid flows and two-phase mixtures. These systems take the general form:
 $$
 \partial_t \mathbf{W} + \partial_x \mathbf{f}(\mathbf{W}) = \frac{1}{\varepsilon} \mathbf{R}(\mathbf{W}),
 $$
 
-where $\mathbf{W}$ is the vector of conserved variables, $\mathbf{f}(\mathbf{W})$ is the flux function, and $\mathbf{R}(\mathbf{W})$ represents a relaxation source term. The parameter $\varepsilon > 0$ is typically small, which leads to multiscale behavior and poses significant challenges for numerical approximation.
+where $$\mathbf{W}$$ is the vector of conserved variables, $$\mathbf{f}(\mathbf{W})$$ is the flux function, and $$\mathbf{R}(\mathbf{W})$$ represents a relaxation source term. The parameter $$\varepsilon > 0$$ induces multiscale dynamics and presents major challenges for the design of robust numerical methods.
 
-In particular, I study the design and analysis of **asymptotic-preserving schemes** that remain accurate and stable in both the kinetic and equilibrium regimes. A major motivation for this work comes from applications in **two-phase flow models**, where such systems naturally arise when describing the interaction between different phases (e.g., gas-liquid mixtures).
+In particular, I focus on the development and analysis of **asymptotic-preserving** numerical schemes, designed to remain stable and accurate across both equilibrium and non-equilibrium regimes. These schemes are particularly suited to two-phase flow problems, where relaxation terms capture the exchange dynamics between coexisting phases like vapor and liquid.
 
 <div style="text-align:center;">
 $$
@@ -29,14 +30,14 @@ $$
 $$
 </div>
 
-Research interests
+<!-- Research interests
 ======
 
 blabla
 <b>blabla</b> <br>
 **blabla**
 <i>blable</i><br>
-*blabla*
+*blabla* -->
 
 ## ![lebanon](images/lebanon.jpg)
 
