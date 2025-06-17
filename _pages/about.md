@@ -27,7 +27,7 @@ I focus on the development and analysis of **asymptotic-preserving** numerical s
 
 ## Topics of interest
 
-compressible multiphase flows, Hyperbolic systems, relaxation, Numerical analysis Finite Volume schemes, Asymptotic preserving schemes
+Hyperbolic systems, relaxation, Numerical analysis Finite Volume schemes, Asymptotic preserving schemes, compressible two-phase flows
 
 <!-- <div style="text-align:center;">
 $$
