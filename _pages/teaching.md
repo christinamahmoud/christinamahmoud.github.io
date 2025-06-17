@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-As part of my PhD, I teach tutorials and practical sessions at the Faculty of Science, University of Montpellier.  
-During the academic years below, I was involved in the following undergraduate courses:
+As part of my PhD, I taught **tutorial sessions (Travaux Dirigés – TD)** for the following undergraduate courses at the Faculty of Science, University of Montpellier:
 
 - **HAV220X – Scientific Reasoning**  
   L1 – Life Sciences, Health, and Environment (SVSE) track
@@ -17,3 +16,4 @@ During the academic years below, I was involved in the following undergraduate c
 Total teaching hours:  
 - 2023–2024: 48 hours  
 - 2024–2025: 63 hours
+
