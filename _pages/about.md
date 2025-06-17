@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD student in applied mathematics, supervised by [Hélène Mathis](https://imag.umontpellier.fr/~mathis/).  
 As part of my doctoral studies, I also teach at the Faculty of Science, University of Montpellier — see the [Teaching](https://christinamahmoud.github.io/teaching/) section for more details.
-## Research
+## Research Focus
 
 <!-- Research interests
 ====== -->
@@ -25,7 +25,7 @@ $$
 <!-- The parameter $$\varepsilon > 0$$ induces multiscale dynamics and presents major challenges for the design of robust numerical methods. -->
 I focus on the development and analysis of **asymptotic-preserving** numerical schemes, designed to remain stable and accurate across both equilibrium and non-equilibrium regimes. These schemes are particularly suited to two-phase flow problems, where relaxation terms capture the exchange dynamics between coexisting phases like vapor and liquid.
 
-## Topics of interest
+## Research Interests
 
 - Hyperbolic systems
 - Relaxation
