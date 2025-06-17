@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-As part of my PhD, I taught **tutorial sessions (Travaux Dirigés – TD)** for the following undergraduate courses at the Faculty of Science, [University of Montpellier](https://www.umontpellier.fr/en/):
+As part of my PhD, I taught **tutorial sessions (Travaux Dirigés – TD)** for the following undergraduate courses at the Faculty of Science, [University of Montpellier](https://www.umontpellier.fr/en/) :
 
 - **[HAV220X – Scientific Reasoning](https://formations-en.umontpellier.fr/fr/formations/licence-XA/l1-portail-sciences-de-la-vie-sante-environnement-svse-KNYLZM0G/l1-svse-pcav-KNYM5OKM/raisonnement-scientifique-KO8EMTHF.html)**  
   L1 – Life Sciences, Health, and Environment (SVSE) track
