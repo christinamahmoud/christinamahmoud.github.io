@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in applied mathematics under the direction of [Hélène Mathis](https://imag.umontpellier.fr/~mathis/).
+## About
+
+I am a PhD student in applied mathematics, supervised by [Hélène Mathis](https://imag.umontpellier.fr/~mathis/).  
+As part of my doctoral studies, I also teach at the Faculty of Science, University of Montpellier — see the [Teaching](https://christinamahmoud.github.io/teaching/) section for more details.
+
 <div style="text-align:center;">
 $$
 \partial_t u + \partial_x f(u) = 0
