@@ -9,6 +9,6 @@ author_profile: true
 
 - M. Barboteu, F. Bonaldi, S. Dumont, C. Mahmoud.  
   *An energy-consistent discretization of hyper-viscoelastic contact models for soft tissues*.  
-  _Computer Methods in Applied Mechanics and Engineering_, Vol. 421, 2024, Article 116785.  
+  _Computer Methods in Applied Mechanics and Engineering_, Vol. 421, 2024, Article 116785. 
   [Publisher](https://doi.org/10.1016/j.cma.2024.116785) 
 
