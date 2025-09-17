@@ -6,7 +6,7 @@ author_profile: true
 ---
 <!-- Research interests
 ====== -->
-## Research Focus
+<!-- ## Research Focus-->
 My research focuses on the numerical approximation of **hyperbolic systems with relaxation**, which appear in various applications involving non-equilibrium processes, such as fluid flows and two-phase mixtures.
 <!-- <div style="text-align:center;">
 $$
