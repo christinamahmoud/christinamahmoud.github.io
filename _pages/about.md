@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 
-
+---
 <!-- ## About -->
 
 I am a PhD student in applied mathematics at [IMAG](https://imag.umontpellier.fr),  under the supervision of [Hélène Mathis](https://imag.umontpellier.fr/~mathis/).  
 As part of my doctoral studies, I also teach at the Faculty of Science, University of Montpellier — see the [Teaching](https://christinamahmoud.github.io/teaching/) section for more details.
 
----
+
 <!-- <div style="text-align:center;">
 $$
 \partial_t u + \partial_x f(u) = 0
