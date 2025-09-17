@@ -1,19 +1,16 @@
 ---
----
-layout: default
 permalink: /
-title: "Christina Mahmoud — PhD student in applied mathematics"
-description: "PhD student at IMAG (Université de Montpellier). Research: hyperbolic relaxation systems, Roe & Sainsaulieu methods, two-phase flows."
+title: "About me"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Christina Mahmoud
+<!-- ## About -->
 
-I am a PhD student in applied mathematics at [IMAG](https://imag.umontpellier.fr), under the supervision of [Hélène Mathis](https://imag.umontpellier.fr/~mathis/).  
-As part of my doctoral studies, I also teach at the Faculty of Science, University of Montpellier — see the [Teaching](/teaching/) section for more details.
+I am a PhD student in applied mathematics at [IMAG](https://imag.umontpellier.fr),  under the supervision of [Hélène Mathis](https://imag.umontpellier.fr/~mathis/).  
+As part of my doctoral studies, I also teach at the Faculty of Science, University of Montpellier — see the [Teaching](https://christinamahmoud.github.io/teaching/) section for more details.
 
 
 <!-- <div style="text-align:center;">
