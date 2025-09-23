@@ -15,6 +15,7 @@ As part of my PhD, I taught **tutorial sessions (Travaux Dirigés – TD)** for 
 
 - **[HAV120X2 - Remediation in mathematics](https://formations-en.umontpellier.fr/fr/formations/licence-XA/l1-portail-mathematiques-et-ses-applications-KNYL57V4/l1-mathematiques-et-ses-applications-LEO1YPFM/l1-maths-mineure-physique-KNYL6DOC/l1-mineure-phy-choix-1-LEO2O8WI/remediation-en-mathematiques-LEO2MV3J.html)**
   L1 – Life Sciences, Health, and Environment (SVSE) track
+  
 
 Total teaching hours:  
 - 2023–2024 : 48 hours  
