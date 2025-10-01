@@ -27,4 +27,4 @@ I focus on the development and analysis of **asymptotic-preserving** numerical s
 
 ## Collaborations
 
--  Member of the **[ANGUS](https://www.inria.fr/en/angus)** team at the Inria Center, Université Côte d'Azur, in collaboration with [IMAG](https://imag.umontpellier.fr), under the supervision of [Nicolas Seguin](https://seguin.perso.math.cnrs.fr).
+-  Member of the **[ANGUS](https://www.inria.fr/en/angus)** team at the Inria Center, under the supervision of [Nicolas Seguin](https://seguin.perso.math.cnrs.fr).
