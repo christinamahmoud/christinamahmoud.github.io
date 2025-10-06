@@ -9,8 +9,8 @@ redirect_from:
 ---
 <!-- ## About -->
 
-I am a PhD student in applied mathematics at [IMAG](https://imag.umontpellier.fr),  under the supervision of [Hélène Mathis](https://imag.umontpellier.fr/~mathis/).  
-As part of my doctoral studies, I also teach at the Faculty of Science, University of Montpellier — see the [Teaching](https://christinamahmoud.github.io/teaching/) section for more details.
+I am a Ph.D. student in applied mathematics at [IMAG](https://imag.umontpellier.fr), University of Montpellier (funded by a CNRS grant), supervised by [Hélène Mathis](https://imag.umontpellier.fr/~mathis/). My research focuses on the approximation of hyperbolic systems with relaxation and their applications to two-phase flows. As part of my doctoral studies, I also teach at the Faculty of Science — see the [Teaching](/teaching/) section for details.
+
 
 
 <!-- <div style="text-align:center;">
