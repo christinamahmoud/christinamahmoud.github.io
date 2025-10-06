@@ -15,6 +15,11 @@ $$
 </div>
 where $\mathbf{W}$ is the vector of conserved variables, $\mathbf{f}(\mathbf{W})$ is the flux, and $\mathbf{R}(\mathbf{W})$ is the relaxation source term. The small parameter $\varepsilon>0$ induces multiscale dynamics that challenge robust scheme design.
 -->
+## Key contributions
+
+- Unsplit AP schemes for hyperbolic systems with relaxation.  
+- Relative-entropy analysis for relaxation systems: convergence to equilibrium. 
+- Hierarchy of relaxation-based hyperbolic models for two-phase flows.  
 
 ## Research interests
 
@@ -24,8 +29,3 @@ where $\mathbf{W}$ is the vector of conserved variables, $\mathbf{f}(\mathbf{W})
 - Asymptotic-preserving methods  
 - Compressible two-phase flows
 
-## Key contributions
-
-- Unsplit AP schemes for hyperbolic systems with relaxation.  
-- Relative-entropy analysis for relaxation systems: convergence to equilibrium. 
-- Hierarchy of relaxation-based hyperbolic models for two-phase flows.  
