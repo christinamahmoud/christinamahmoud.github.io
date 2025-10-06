@@ -15,7 +15,5 @@ author_profile: true
 ## Preprints
 
 - C. Mahmoud, H. Mathis.
-
   *Asymptotic Preserving Schemes for Hyperbolic Systems with Relaxation*,
-  submitted,
-  [HAL](https://cnrs.hal.science/IMAG-MONTPELLIER/hal-05291431v1)
+  submitted,[HAL](https://cnrs.hal.science/IMAG-MONTPELLIER/hal-05291431v1)
