@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- ## About -->
 
-I am a Ph.D. student in applied mathematics at [IMAG](https://imag.umontpellier.fr), University of Montpellier (funded by a CNRS grant), supervised by [Hélène Mathis](https://imag.umontpellier.fr/~mathis/). My research focuses on the approximation of hyperbolic systems with relaxation and their applications to two-phase flows. As part of my doctoral studies, I also teach at the Faculty of Science — see the [Teaching](/teaching/) section for details.
+I am a Ph.D. student in applied mathematics at [IMAG](https://imag.umontpellier.fr), University of Montpellier (2023–2026; CNRS-funded), supervised by [Hélène Mathis](https://imag.umontpellier.fr/~mathis/). I work on approximating hyperbolic systems with relaxation and their applications to two-phase flows. I also teach at the Faculty of Science—see [Teaching](/teaching/). I am a member of **[ANGUS](https://team.inria.fr/angus/)** (Inria), collaborating with **[Nicolas Seguin](https://seguin.perso.math.cnrs.fr)**.
 
 **Address**
 

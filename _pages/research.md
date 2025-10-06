@@ -29,7 +29,3 @@ where $\mathbf{W}$ is the vector of conserved variables, $\mathbf{f}(\mathbf{W})
 - Unsplit AP schemes for hyperbolic systems with relaxation.  
 - Relative-entropy analysis for relaxation systems: convergence to equilibrium. 
 - Hierarchy of relaxation-based hyperbolic models for two-phase flows.  
-
-## Collaborations
-
-- Member of the **[ANGUS](https://team.inria.fr/angus/)** team at Inria, in collaboration with [Nicolas Seguin](https://seguin.perso.math.cnrs.fr).
