@@ -17,3 +17,9 @@ author_profile: true
 - C. Mahmoud and H. Mathis.  
   *Asymptotic-preserving schemes for hyperbolic systems with relaxation.* Submitted.  
   [HAL](https://cnrs.hal.science/IMAG-MONTPELLIER/hal-05291431v1)
+
+## Work in progress
+
+1. C. Mahmoud, H. Mathis.  
+   *Relative-Entropy Analysis of Hyperbolic Relaxation Systems: Convergence to Equilibrium*.  
+   _In preparation._
