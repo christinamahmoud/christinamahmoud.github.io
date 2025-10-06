@@ -24,16 +24,11 @@ where $\mathbf{W}$ is the vector of conserved variables, $\mathbf{f}(\mathbf{W})
 - Asymptotic-preserving methods  
 - Compressible two-phase flows
 
-## Key contributions *(Travaux clés)*
+## Key contributions
 
-- **Unsplit AP schemes for hyperbolic systems with relaxation.**  
-  *(Construction de deux schémas *unsplit* *asymptotic-preserving* pour des systèmes hyperboliques avec relaxation.)*
-
-- **Relative-entropy analysis for relaxation systems: convergence to equilibrium.**  
-  *(Analyse par entropie relative des systèmes hyperboliques avec relaxation : convergence vers l’équilibre.)*
-
-- **Hierarchy of relaxation-based hyperbolic models for two-phase flows.**  
-  *(Hiérarchie de modèles hyperboliques avec relaxation pour les écoulements diphasiques.)*
+- Unsplit AP schemes for hyperbolic systems with relaxation.  
+- Relative-entropy analysis for relaxation systems: convergence to equilibrium. 
+- Hierarchy of relaxation-based hyperbolic models for two-phase flows.  
 
 ## Collaborations
 
