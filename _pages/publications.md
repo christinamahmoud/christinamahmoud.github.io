@@ -20,6 +20,5 @@ author_profile: true
 
 ## Work in progress
 
-1. C. Mahmoud, H. Mathis.  
-   *Relative-Entropy Analysis of Hyperbolic Relaxation Systems: Convergence to Equilibrium*.  
+1. *Relative-Entropy Analysis of Hyperbolic Relaxation Systems: Convergence to Equilibrium*.  
    _In preparation._
