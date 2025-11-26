@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-
-
+Full resume: [English]({{ "/files/CV__FR-2.pdf" | relative_url }}) & [French]({{ "/files/CV__FR.pdf" | relative_url }})
