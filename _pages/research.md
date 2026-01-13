@@ -18,7 +18,7 @@ where $\mathbf{W}$ is the vector of conserved variables, $\mathbf{f}(\mathbf{W})
 ## Key contributions
 
 - Unsplit AP schemes for hyperbolic systems with relaxation.  
-- Relative-entropy analysis for relaxation systems: convergence to equilibrium. 
+- Relative entropy analysis for asymptotic preserving schemes to the Jin & Xin model. 
 - Hierarchy of relaxation-based hyperbolic models for two-phase flows.  
 
 ## Research interests
