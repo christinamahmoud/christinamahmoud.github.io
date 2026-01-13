@@ -20,5 +20,5 @@ author_profile: true
 
 ## Work in progress
 
-1. *Relative-Entropy Analysis of Hyperbolic Relaxation Systems: Convergence to Equilibrium*.  
+1. *Relative entropy analysis for asymptotic preserving schemes to the Jin & Xin model*.  
    _In preparation._
