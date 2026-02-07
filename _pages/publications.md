@@ -22,4 +22,4 @@ author_profile: true
 
 1. *Relative entropy analysis for asymptotic preserving schemes to the Jin & Xin model*.  
    _In preparation._
-2. *Relative-Entropy Analysis of a Hierarchy of Relaxation Models for Phase-Change Flows*
+2. *Relative entropy Analysis of a Hierarchy of Relaxation Models for Phase-Change Flows*
