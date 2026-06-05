@@ -18,3 +18,4 @@ author_profile: true
 ## Seminars
 
 - 05/2026 : Applied Mathematics Seminar, Jean Leray Mathematics Laboratory, Nantes, France — **Talk**
+- 04/2026 : PhD Students Seminar, IMAG, University of Montpellier, Montpellier, France — **Talk**
