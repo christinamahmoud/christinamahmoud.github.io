@@ -9,15 +9,42 @@ redirect_from:
 ---
 <!-- ## About -->
 
-I am a Ph.D. student in applied mathematics at [IMAG](https://imag.umontpellier.fr), University of Montpellier (2023–2026; CNRS-funded), supervised by [Hélène Mathis](https://imag.umontpellier.fr/~mathis/). I work on approximating hyperbolic systems with relaxation and their applications to two-phase flows. I also teach at the Faculty of Science—see [Teaching](/teaching/). I am a member of [ANGUS](https://team.inria.fr/angus/)(Inria), collaborating with [Nicolas Seguin](https://seguin.perso.math.cnrs.fr).
 
-**Address**
+## About me
 
-IMAG — UMR 5149  
-University of Montpellier  
-Place Eugène Bataillon  
-34090 Montpellier, France  
-Office 123
+I am currently a **postdoctoral researcher** at the [Institut Camille Jordan](https://math.univ-lyon1.fr/), Université Claude Bernard Lyon 1, working with [Marie-Hélène Vignal](https://www.math.univ-toulouse.fr/~mhvignal/).
+
+Previously, I completed my Ph.D. in Applied Mathematics (2023–2026) at [IMAG](https://imag.umontpellier.fr/), University of Montpellier, under the supervision of [Hélène Mathis](https://imag.umontpellier.fr/~mathis/), with funding from the CNRS.
+
+My doctoral research focused on the numerical approximation of hyperbolic systems with relaxation and their applications to two-phase flow models.
+
+During my Ph.D., I was also a member of the [ANGUS](https://team.inria.fr/angus/) team at Inria, collaborating with [Nicolas Seguin](https://seguin.perso.math.cnrs.fr/).
+
+I also taught at the Faculty of Science, University of Montpellier (see [Teaching](/teaching/)).
+
+## Ph.D. Thesis
+
+On **21 September 2026**, I successfully defended my Ph.D. thesis entitled:
+
+**Numerical Analysis of Hyperbolic Relaxation Systems: Application to Two-Phase Flow Models**
+
+The defense took place at the University of Montpellier before the following jury:
+
+- **Magali Ribot** (University of Orléans) — Chair
+- **Ingrid Violet-Lacroix** (University of Lorraine) — Reviewer
+- **Marie-Hélène Vignal** (Université Lyon 1) — Reviewer
+- **Christophe Berthon** (Nantes Université) — Examiner
+- **Philippe Helluy** (University of Strasbourg) — Examiner
+- **Hélène Mathis** (University of Montpellier) — Ph.D. Supervisor
+
+## Address
+
+**Institut Camille Jordan — UMR 5208**  
+Université Claude Bernard Lyon 1  
+Bâtiment Jean Braconnier  
+21 avenue Claude Bernard  
+69100 Villeurbanne, France  
+**Office 225**
 
 
 <!-- <div style="text-align:center;">
