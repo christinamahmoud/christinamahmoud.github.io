@@ -17,8 +17,8 @@ author_profile: true
 - C. Mahmoud and H. Mathis.  
   *Asymptotic-preserving schemes for hyperbolic systems with relaxation.* Submitted.  
   [HAL](https://cnrs.hal.science/IMAG-MONTPELLIER/hal-05291431v1)
--  C. Mahmoud
-  *Relative entropy analysis for asymptotic preserving schemes to the Jin & Xin model*.  
+-  C. Mahmoud.
+  *Relative entropy analysis of the Jin-Xin model : Theory and Numerics*.  
   Submitted.
   [HAL](https://hal.science/hal-05661978)
 
