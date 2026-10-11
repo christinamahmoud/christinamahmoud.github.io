@@ -24,4 +24,4 @@ author_profile: true
 
 ## Work in progress
 
-1. *Relative entropy analysis of a Hierarchy of Phase-Change Relaxation Models*.
+1. *Relative Entropy Analysis of Fluid Models*.
