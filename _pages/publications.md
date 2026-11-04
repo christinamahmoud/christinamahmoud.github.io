@@ -25,3 +25,6 @@ author_profile: true
 ## Work in progress
 
 1. *Relative Entropy Analysis of Fluid Models*.
+
+## Thesis
+**Numerical Analysis of Hyperbolic Relaxation Systems: Application to Two-Phase Flow Models**[Thesis](https://hal.science/tel-05774683)
