@@ -26,7 +26,7 @@ I also taught at the Faculty of Science, University of Montpellier (see [Teachin
 
 On **21 September 2026**, I successfully defended my Ph.D. thesis entitled:
 
-**Numerical Analysis of Hyperbolic Relaxation Systems: Application to Two-Phase Flow Models**
+**Numerical Analysis of Hyperbolic Relaxation Systems: Application to Two-Phase Flow Models**[Thesis](https://hal.science/tel-05774683)
 
 The defense took place at the University of Montpellier before the following jury:
 
